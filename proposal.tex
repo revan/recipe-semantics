@@ -1,0 +1,38 @@
+\documentclass[11pt, letterpaper]{article}
+\usepackage[backend=bibtex]{biblatex}
+\bibliography{bib}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{fullpage}
+\usepackage{lmodern}
+\usepackage{graphicx}
+\usepackage{gensymb}
+\usepackage{parskip}
+\author{Revan~Sopher}
+\title{Natural Language Processing Project Proposal}
+\begin{document}
+\maketitle
+
+\section{Subject}
+I will be attempting to build a knowledge base of ingredients, their relationships, and what one does with them by parsing recipes.
+I'll then try to generate recipes based on a list of desired input ingredients.
+
+If that falls through, I'll try suggesting ingredient replacements, where I try to find relations between ingredients based on the actions that are done to them, and on what other ingredients they occur alongside of.
+
+I don't imagine projects in this class need much more motivation than ``it's a challenging problem''.
+
+And of course, http://xkcd.com/720/ .
+
+\section{Existing Work}
+The ACL paper ``Cooking with Semantics'' \footnote{http://www.cs.ubc.ca/~murphyk/Papers/acl2014.pdf} provides a nice explanation of the challenges faced in parsing recipes.
+Notably, subjects are often taken implicitly or indirectly available, so the recipient of an action is often unclear.
+
+I also came across a corpus of annotated recipes \footnote{http://www.ark.cs.cmu.edu/CURD/} which might be useful for performance evaluation, and a blog post \footnote{http://datadesk.latimes.com/posts/2013/12/natural-language-processing-in-the-kitchen/} about using NLTK to parse a database of recipes (with ugly hacks to overcome domain-specific issues).
+
+\section{Evaluation}
+I may be able to use the existing annotated corpus above to judge the accuracy of the collected knowledge, which would provide a quantitative measure.
+Otherwise evaluation is rather qualitative: if I am able to generate recipes, I would consider the project successful if it results in coherent steps. Culinary style is, so to speak, off the table.
+
+\end{document}
