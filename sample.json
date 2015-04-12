@@ -1,0 +1,95 @@
+    {
+        "category": "Main Dish", 
+        "ingredients": [
+            {
+                "name": "Lasagna noodles ", 
+                "quantity": "1", 
+                "unit": "package (~12 oz.)"
+            }, 
+            {
+                "name": "Olive oil", 
+                "quantity": "30", 
+                "unit": "ml"
+            }, 
+            {
+                "name": "Tomato basil pasta sauce", 
+                "quantity": "1 1/2", 
+                "unit": "jars"
+            }, 
+            {
+                "name": "Ricotta Cheese part skim", 
+                "quantity": "1", 
+                "unit": "16 oz container"
+            }, 
+            {
+                "name": "Roasted garlic", 
+                "quantity": "10", 
+                "unit": "cloves"
+            }, 
+            {
+                "name": "Fresh baby spinach", 
+                "quantity": "4", 
+                "unit": "handfuls"
+            }, 
+            {
+                "name": "Artichoke hearts (in water)", 
+                "quantity": "1", 
+                "unit": "15 oz can/jar"
+            }, 
+            {
+                "name": "Dried parsley", 
+                "quantity": "2", 
+                "unit": "ml"
+            }, 
+            {
+                "name": "Red pepper flakes", 
+                "quantity": "2", 
+                "unit": "ml"
+            }, 
+            {
+                "name": "Ground black pepper ", 
+                "quantity": "2", 
+                "unit": "ml"
+            }, 
+            {
+                "name": "Parmesan cheese", 
+                "quantity": "177", 
+                "unit": "ml"
+            }, 
+            {
+                "name": "Monterey jack cheese, reduced fat", 
+                "quantity": "170", 
+                "unit": "g"
+            }, 
+            {
+                "name": "Part Skim Mozzarella Cheese", 
+                "quantity": "170", 
+                "unit": "g"
+            }, 
+            {
+                "name": "Fresh basil", 
+                "quantity": "59", 
+                "unit": "ml"
+            }
+        ], 
+        "instructions": [
+            "Bring large pot of water to a boil.", 
+            "While water is heating up, mix the ricotta, roasted garlic, spinach, artichoke hearts, dried parsley, red pepper flakes, black pepper and 1/4 cup parmesan cheese together in a large bowl.", 
+            "Pour 1 tablespoon of olive oil in the boiling water before adding the pasta.", 
+            "Cook the pasta a few minutes or until about halfway cooked, then drain.", 
+            "Drizzle the remaining tablespoon of olive oil in a large rectangular glass pan.", 
+            "Layer a little bit of the pasta sauce on the bottom of the pan.", 
+            "Layer 1/3 of the pasta noodles in the pan.", 
+            "Layer a little more pasta sauce on top of the noodles.", 
+            "Take 1/2 of the ricotta mixture and drop evenly over the noodles and sauce in the pan.", 
+            "Top the ricotta with 1/3 of the jack cheese and 1/3 of the mozzarella.", 
+            "Layer another 1/3 of the noodles in the pan with more sauce on top.", 
+            "Finish dropping the rest of the ricotta mixture over the lasagna.", 
+            "Top with 1/3 of the jack cheese and 1/3 of the mozzarella.", 
+            "Use the rest of the noodles and top with the rest of the sauce.", 
+            "Sprinkle the top of the lasagna with the remaining parmesan, jack, and mozzarella cheeses.", 
+            "Bake in a 375 degree oven until hot, golden and bubbly, making sure the noodles are cooked through (about 40 minutes.)", 
+            "Top with fresh basil before serving."
+        ], 
+        "title": "Healthier Vegetarian Lasagna "
+    }
